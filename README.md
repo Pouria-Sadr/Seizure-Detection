@@ -109,7 +109,7 @@ To demonstrate the stability of the model's results, we evaluate and consecutive
 	Now, we will examine the results in various different situations.
 - **Various Metrics Checked in Previous Phases**
 	To assess these metrics, we rely on the test data, and the values of these metrics are evaluated using the test data. The values of these metrics were displayed in the image of the epochs, so it is sufficient to check the confusion matrix.
-	![](media/2-1.png)
+	![](https://github.com/Pouria-Sadr/Seizure-Detection/blob/main/media/2-1.png)
 
 - **Finding the Accuracy Result on the Seizure Interval**
 In this model, the accuracy value on the Seizure interval that has not been visited by the model is equal to 0.8484.
